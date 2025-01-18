@@ -16,3 +16,6 @@ EDA and Model Building for determining mobile phones price ranges
 4.Model Training:
   * Use ScaledDataSet.csv in ModelTranning.ipynb.
   * Split data into training and validation sets and train the model.
+
+5.Model Testing:
+   * Load test.csv to evaluate model performance on unseen data.
